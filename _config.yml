@@ -1,16 +1,16 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
+title: Yan Huang
+name: Yan Huang
 subtitle: Financial Economist
-email: paul.soto@upf.edu
+email: yhuang@nlpr.ia.ac.cn
 description: >
   Financial Economist
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://yanrockhuang.github.io/"
+github_username:  yanrockhuang
+disqus_baseurl: "https://yanrockhuang.github.io/"
+disqus_shortname: https-yanrockhuang-github-io
 permalink: :title
 
 # Build settings
@@ -24,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Yan Huang"
 
 
 
