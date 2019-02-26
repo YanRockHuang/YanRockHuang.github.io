@@ -35,18 +35,3 @@ gems:
   - jekyll-seo-tag
 
 
-
-social:
-  - name: GitHub
-    icon: github
-    username: pesoto
-    url: https://github.com/pesoto
-    desc: Fork me on GitHub
-    share: false
-
-  - name: LinkedIn
-    icon: linkedin
-    username: Paul E. Soto
-    url: https://linkedin.com/pesoto
-    desc: Connect with me on LinkedIn
-    share: true
